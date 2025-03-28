@@ -1,0 +1,5 @@
+for x in range (9): 
+
+  if (x==3 and x==6):
+  
+ print(x)
